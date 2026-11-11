@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+coverage
+.git
+.gitignore
+.dockerignore
+Dockerfile
+Jenkinsfile
+k8s
+terraform
+test
+*.md
+.env
